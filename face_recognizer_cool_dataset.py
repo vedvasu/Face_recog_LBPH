@@ -26,7 +26,6 @@ def get_trainer_data():
 				#print face_image
 				
 				name.append(i)
-				#fuck u
 				#print name
 				#face_image.append(face_only)
 				#name.append(i)
